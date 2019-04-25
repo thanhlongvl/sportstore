@@ -1,0 +1,8 @@
+a.pd-name{text-decoration: none}
+    button{margin-bottom:3px}
+    ul.top-menu{position: fixed; width: 100%;top: 0}
+    div.content{max-width:1250px; margin-left:auto; margin-right:auto; margin-top:50px}
+    ul.side-menu a{-webkit-transition:background-color .3s,color .15s,box-shadow .3s,opacity 0.3s,filter 0.3s;transition:background-color .3s,color .15s,box-shadow .3s,opacity 0.3s,filter 0.3s}
+    ul.side-menu a{display:block}
+    ul.side-menu li{padding:0}
+    .chu1{padding: 1ex 1em;font-family: tahoma;font-size: 120%;margin: 0;}
